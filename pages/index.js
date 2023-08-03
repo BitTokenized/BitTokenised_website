@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Card from "./components/Card";
-import { cardsData } from "./data/cardsData";
+import Card from "../components/Card";
+import { cardsData } from "../data/cardsData";
 
 export default function Index() {
   const [cards, setCards] = useState(cardsData);

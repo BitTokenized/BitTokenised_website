@@ -1,7 +1,7 @@
 import "animate.css";
 import "../styles/globals.css";
-import NavBar from "./components/NavBar";
-import Footer from "./components/Footer";
+import NavBar from "../components/NavBar";
+import Footer from "../components/Footer";
 
 function MyApp({ Component, pageProps }) {
   return (
