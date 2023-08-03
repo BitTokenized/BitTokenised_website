@@ -10,7 +10,7 @@ export default function Index() {
       <div className="p-3 lg:p-2 xl:p-4 md:mb-2 lg:mb-4 xl:mb-5 2xl:mb-8 text-center text-white font-Kotta animate__animated animate__slideInDown">
         <p className="text-4xl lg:text-5xl xl:text-5xl 2xl:text-7xl mb-2 lg:mb-2 xl:mb-2 2xl:mb-4 flex items-center justify-center">
           <img
-            src="BitTokenised_website/images/logo_2.png"
+            src="images/logo_2.png"
             alt="Logo"
             className="h-12 md:h-12 lg:h-14 xl:h-16 2xl:h-24 mr-2"
           />
