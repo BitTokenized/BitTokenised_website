@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import { AiOutlineInfoCircle, AiOutlineHome } from "react-icons/ai";
 import { useRouter } from "next/router";
 
@@ -16,13 +17,13 @@ const NavBar = () => {
 
   return (
     <div className="navbar bg-transparent flex justify-between items-center">
-      <a href="/">
+      <Link href="/">
         <img
           src="images/logo_2.png"
           alt="Logo_2"
           className="ml-2 h-8 md:h-12"
         />
-      </a>
+      </Link>
       <button
         onClick={handleClick}
         className="flex items-center space-x-1 text-white hover:text-secondary transition-all duration-300 ease-in-out cursor-pointer"
