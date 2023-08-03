@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 import { FaGithub, FaTwitter, FaLinkedin, FaAddressCard } from "react-icons/fa";
 
 const Footer = () => {
