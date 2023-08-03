@@ -17,7 +17,11 @@ const NavBar = () => {
   return (
     <div className="navbar bg-transparent flex justify-between items-center">
       <a href="/">
-        <img src="/logo_2.png" alt="Logo_2" className="ml-2 h-8 md:h-12" />
+        <img
+          src="/nextjs-github-pages/logo_2.png"
+          alt="Logo_2"
+          className="ml-2 h-8 md:h-12"
+        />
       </a>
       <button
         onClick={handleClick}

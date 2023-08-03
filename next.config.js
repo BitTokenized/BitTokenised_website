@@ -25,7 +25,7 @@ const nextConfig = {
    * @see https://nextjs.org/docs/pages/api-reference/components/image#unoptimized
    */
   images: {
-    unoptimized: false,
+    unoptimized: true,
   },
 };
 
