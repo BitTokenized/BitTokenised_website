@@ -5,7 +5,7 @@ export const cardsData = [
     title: "Tokenomics & Treasury",
     subtitle:
       "Empowering Your Project with Robust Tokenomics and Efficient Asset Management",
-    image: "./tokenomics.png",
+    image: "BitTokenised_website/images/tokenomics.png",
     logo: <FaCog />,
     shadow: "shadow-md shadow-secondary hover:shadow-lg hover:shadow-primary",
     btnText: "Explore",
@@ -38,7 +38,7 @@ export const cardsData = [
     title: "Development & Deployment",
     subtitle:
       "Providing End-to-End Solutions for Token Development and Deployment",
-    image: "./deployment.png",
+    image: "BitTokenised_website/images/deployment.png",
     logo: <FaRocket />,
     btnText: "Explore",
     shadow: "shadow-md  shadow-secondary hover:shadow-lg hover:shadow-primary",
@@ -72,7 +72,7 @@ export const cardsData = [
     title: "Governance & Compliance",
     subtitle:
       "Building Robust Governance and Ensuring Secure Compliance for Your Token",
-    image: "./compliance.png",
+    image: "BitTokenised_website/images/compliance.png",
     logo: <FaShieldAlt />,
     shadow: "shadow-md shadow-secondary hover:shadow-lg hover:shadow-primary",
     btnText: "Explore",

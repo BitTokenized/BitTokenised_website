@@ -58,7 +58,7 @@ const vcard = () => {
           <div>
             <img
               className="w-28 h-28 rounded-full mx-auto"
-              src="./logo.png"
+              src="BitTokenised_website/images/logo.png"
               alt={contactInfo.company}
             />
           </div>
